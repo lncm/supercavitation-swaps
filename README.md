@@ -4,6 +4,8 @@
 
 > Supercavitation is the process of injecting gas in front of a travelling submarine, creating a frictionless environment that enables significantly faster speeds.
 
+Watch [this video](https://www.youtube.com/watch?v=yqiRMy6mmms) for an overview.
+
 See [this explainer](https://github.com/lncm/supercavitation-swaps/wiki/Frictionless-EVM-Submarine-Swaps) for more details on rationale and implementation.
 
 This project was created for the BKK RSK Hackathon.
